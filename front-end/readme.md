@@ -1,0 +1,1 @@
+Aqui tera todas as coisas que envolvem os exercicios de front-end na Trybe
